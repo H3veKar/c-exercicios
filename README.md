@@ -1,4 +1,4 @@
-# 🧩 Exercícios em C++
+#  Exercícios em C++
 
 Repositório com códigos desenvolvidos durante o curso **Meninas na Programação**, focado em prática e lógica de programação com C++.
 
